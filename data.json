@@ -1,0 +1,550 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "AAAA",
+      "description": "Near Cricket Ground",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 1,
+      "city": "Bhagalpur",
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/VCh0VHc/pg1.jpg",
+      "images": [
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "BBBB",
+      "description": "River View",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 1,
+      "city": "Bhagalpur",
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/RB04yKp/pg2.jpg",
+      "images": [
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "CCCC",
+      "description": "Temple View",
+      "price": 1249,
+      "discountPercentage": 15.46,
+      "rating": 4.09,
+      "stock": 1,
+      "city": "Bhagalpur",
+      "category": "3B",
+      "thumbnail": "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+      "images": [
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "DDDD",
+      "description": "Temple View",
+      "price": 280,
+      "discountPercentage": 17.91,
+      "rating": 4.3,
+      "stock": 1,
+      "city": "Bhagalpur",
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+      "images": [
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "EEEE",
+      "description": "River View",
+      "price": 499,
+      "discountPercentage": 10.58,
+      "rating": 4.09,
+      "stock": 32,
+      "city": "Bhagalpur",
+      "category": "1B",
+      "thumbnail": "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+      "images": [
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "FFFF",
+      "description": "Near Cricket Ground",
+      "price": 1749,
+      "discountPercentage": 11.02,
+      "rating": 4.57,
+      "stock": 1,
+      "city": "Patna",
+      "category": "1B",
+      "thumbnail": "https://i.ibb.co/VCh0VHc/pg1.jpg",
+      "images": [
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "GGGG",
+      "description": "Near cricket Ground",
+      "price": 1499,
+      "discountPercentage": 4.15,
+      "rating": 4.25,
+      "stock": 1,
+      "city": "Patna",
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/RB04yKp/pg2.jpg",
+      "images": [
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "HHHH",
+      "description": "Temple View",
+      "price": 1499,
+      "discountPercentage": 10.23,
+      "rating": 4.43,
+      "stock": 1,
+      "city": "Patna",
+      "category": "3B",
+      "thumbnail": "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+      "images": [
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "IIII",
+      "description": "Temple View",
+      "price": 1099,
+      "discountPercentage": 11.83,
+      "rating": 4.54,
+      "stock": 1,
+      "city": "Patna",
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+      "images": [
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "JJJJ",
+      "description": "River View",
+      "price": 1099,
+      "discountPercentage": 6.18,
+      "rating": 4.43,
+      "stock": 1,
+      "city": "Patna",
+      "category": "3B",
+      "thumbnail": "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+      "images": [
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "KKKK",
+      "description": "Near Cricket Ground",
+      "price": 13,
+      "discountPercentage": 8.4,
+      "rating": 4.26,
+      "stock": 1,
+      "city": "Madhubani",
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/VCh0VHc/pg1.jpg",
+      "images": [
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "LLLL",
+      "description": "River View",
+      "price": 40,
+      "discountPercentage": 15.66,
+      "rating": 4,
+      "stock": 1,
+      "city": "Kanpur",
+      "category": "1B",
+      "thumbnail": "https://i.ibb.co/RB04yKp/pg2.jpg",
+      "images": [
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "MMMM",
+      "description": "Near Cricket Ground",
+      "price": 13,
+      "discountPercentage": 8.14,
+      "rating": 4.59,
+      "stock": 1,
+      "city": "Kanpur",
+      "category": "1B",
+      "thumbnail": "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+      "images": [
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "NNNN",
+      "description": "Near Cricket ground",
+      "price": 120,
+      "discountPercentage": 15.6,
+      "rating": 4.21,
+      "stock": 1,
+      "city": "Madhubani",
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+      "images": [
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "OOOO",
+      "description": "Near Cricket Ground View",
+      "price": 30,
+      "discountPercentage": 10.99,
+      "rating": 4.7,
+      "stock": 1,
+      "city": "Madhubani",
+      "category": "3B",
+      "thumbnail": "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+      "images": [
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "PPPP",
+      "description": "River view",
+      "price": 19,
+      "discountPercentage": 13.31,
+      "rating": 4.83,
+      "stock": 1,
+      "city": "Hajipur",
+      "category": "1B",
+      "thumbnail": "https://i.ibb.co/VCh0VHc/pg1.jpg",
+      "images": [
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "QQQQl",
+      "description": "Temple view",
+      "price": 12,
+      "discountPercentage": 4.09,
+      "rating": 4.52,
+      "stock": 1,
+      "city": "Hajipur",
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/RB04yKp/pg2.jpg",
+      "images": [
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "RRRR",
+      "description": "Temple View",
+      "price": 40,
+      "discountPercentage": 13.1,
+      "rating": 4.56,
+      "stock": 1,
+      "city": "Hajipur",
+      "category": "3B",
+      "thumbnail": "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+      "images": [
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg",
+        "https://i.ibb.co/Kj2sSGM/pg3.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "title": "UUUU",
+      "description": "River view",
+      "price": 46,
+      "discountPercentage": 10.68,
+      "rating": 4.42,
+      "stock": 1,
+      "city": "Hajipur",
+      "category": "1B",
+      "thumbnail": "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+      "images": [
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg",
+        "https://i.ibb.co/TmLmQyJ/pg4.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "city": "Fair & Clear",
+      "description": "River view",
+      "price": 70,
+      "discountPercentage": 16.99,
+      "rating": 4.06,
+      "stock": 1,
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+      "images": [
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg",
+        "https://i.ibb.co/0ZsmXdG/pg5.jpg"
+      ]
+    }
+  ],
+  "cities": [
+    {
+      "value": "Bhagalpur",
+      "label": "Bhagalpur",
+      "checked": false
+    },
+    {
+      "value": "Kanpur",
+      "label": "Kanpur",
+      "checked": false
+    },
+    {
+      "value": "Madhubani",
+      "label": "Madhubani",
+      "checked": false
+    },
+    {
+      "value": "Hajipur",
+      "label": "Hajipur",
+      "checked": false
+    },
+    {
+      "value": "Patna",
+      "label": "Patna",
+      "checked": false
+    }
+  ],
+  "category": [
+    {
+      "value": "1B",
+      "label": "1B",
+      "checked": false
+    },
+    {
+      "value": "2B",
+      "label": "2B",
+      "checked": false
+    },
+    {
+      "value": "3B",
+      "label": "3B",
+      "checked": false
+    }
+  ],
+  "users": [
+    {
+      "email": "vikku@matre.com",
+      "password": "CTxg6xcfL*#HMW5",
+      "addresses": [],
+      "role": "admin",
+      "id": 9
+    },
+    {
+      "email": "ninjahathori@gmail.com",
+      "password": "ak5?X7fJai+@#wR",
+      "addresses": [
+        {
+          "name": "ninja ",
+          "email": "ninjahathori@gmail.com",
+          "phone": "9876543210",
+          "street": "420",
+          "city": "jhandpur",
+          "state": "kuchh bhi",
+          "pinCode": "813210"
+        }
+      ],
+      "role": "user",
+      "id": 10
+    }
+  ],
+  "cart": [
+    {
+      "title": "AAAA",
+      "description": "Near Cricket Ground",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 1,
+      "city": "Bhagalpur",
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/VCh0VHc/pg1.jpg",
+      "images": [
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg",
+        "https://i.ibb.co/VCh0VHc/pg1.jpg"
+      ],
+      "productId": 1,
+      "quantity": 1,
+      "user": 10,
+      "id": 1
+    },
+    {
+      "title": "BBBB",
+      "description": "River View",
+      "price": 899,
+      "discountPercentage": 17.94,
+      "rating": 4.44,
+      "stock": 1,
+      "city": "Bhagalpur",
+      "category": "2B",
+      "thumbnail": "https://i.ibb.co/RB04yKp/pg2.jpg",
+      "images": [
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg",
+        "https://i.ibb.co/RB04yKp/pg2.jpg"
+      ],
+      "productId": 2,
+      "quantity": 1,
+      "user": 10,
+      "id": 2
+    }
+  ],
+  "orders": [
+    {
+      "items": [
+        {
+          "title": "AAAA",
+          "description": "Near Cricket Ground",
+          "price": 549,
+          "discountPercentage": 12.96,
+          "rating": 4.69,
+          "stock": 1,
+          "city": "Bhagalpur",
+          "category": "2B",
+          "thumbnail": "https://i.ibb.co/VCh0VHc/pg1.jpg",
+          "images": [
+            "https://i.ibb.co/VCh0VHc/pg1.jpg",
+            "https://i.ibb.co/VCh0VHc/pg1.jpg",
+            "https://i.ibb.co/VCh0VHc/pg1.jpg",
+            "https://i.ibb.co/VCh0VHc/pg1.jpg",
+            "https://i.ibb.co/VCh0VHc/pg1.jpg"
+          ],
+          "productId": 1,
+          "quantity": 1,
+          "user": 10,
+          "id": 1
+        }
+      ],
+      "delivery": 0,
+      "finalAmount": 478,
+      "totalItems": 1,
+      "user": {
+        "email": "ninjahathori@gmail.com",
+        "password": "ak5?X7fJai+@#wR",
+        "addresses": [
+          {
+            "name": "ninja ",
+            "email": "ninjahathori@gmail.com",
+            "phone": "9876543210",
+            "street": "420",
+            "city": "jhandpur",
+            "state": "kuchh bhi",
+            "pinCode": "813210"
+          }
+        ],
+        "role": "user",
+        "id": 10
+      },
+      "selectedAddress": {
+        "name": "ninja ",
+        "email": "ninjahathori@gmail.com",
+        "phone": "9876543210",
+        "street": "420",
+        "city": "jhandpur",
+        "state": "kuchh bhi",
+        "pinCode": "813210"
+      },
+      "paymentMethod": "cash",
+      "status": "cancelled",
+      "id": 1
+    }
+  ]
+}
