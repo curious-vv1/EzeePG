@@ -1,46 +1,73 @@
-# Getting Started with Create React App and Redux
+# PG Management Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+This project is a **PG (Paying Guest) Management Website** that allows users to browse and book paying guest accommodations easily. It includes features for sorting PGs based on various criteria like rating, popularity, and cost. Additionally, users can filter PGs by city and category, with both user and admin panels for seamless management.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+### User Panel
+- **Sorting**: Users can sort PG listings based on:
+  - Rating
+  - Popularity
+  - Cost (low to high, high to low)
+- **Filtering**: Users can filter PGs by:
+  - City
+  - Category (e.g., Boys, Girls, Co-living, etc.)
+- **Booking System**: Users can book PG accommodations through the website.
+- **Authentication**: Secure sign-up and login system for users.
+  
+### Admin Panel
+- **Authentication**: Admins have separate login access to manage the website.
+- **Manage Bookings**: Admins can view and manage all bookings.
+- **Change Booking Status**: Admins can update booking statuses (e.g., Confirmed, Cancelled, Completed).
+- **Manage PG Listings**: Admins can add, edit, or delete PG listings.
 
-### `npm start`
+## Installation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/your-username/pg-management-website.git
+    cd pg-management-website
+    ```
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. **Install dependencies**:
+    ```bash
+    npm install
+    ```
 
-### `npm test`
+3. **Set up environment variables**:
+   Create a `.env` file and add the required environment variables for database connections and authentication keys.
+   
+4. **Run the project**:
+    ```bash
+    npm start
+    ```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. **Access the website**:
+   The website will be running locally at `http://localhost:3000`.
 
-### `npm run build`
+## Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Frontend**: React.js, Tailwind CSS
+- **State Management**: Redux
+- **Form Handling**: react-hook-form
+- **Backend**: json-server (for development, replace with actual backend)
+- **Icons & UI**: @heroicons/react, @headlessui/react
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Admin Credentials
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Use the following credentials to log in as an admin for testing purposes:
+  - **Username**: admin
+  - **Password**: admin123
 
-### `npm run eject`
+## Future Enhancements
+- Add real-time messaging between users and PG owners.
+- Implement a review and rating system for PG accommodations.
+- Add payment integration for booking confirmations.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contributing
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Contributions are welcome! Feel free to submit a Pull Request or open an issue.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## License
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
